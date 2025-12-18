@@ -1,0 +1,7 @@
+{
+  "name": "Memory Pulse",
+  "description": "Entrenamiento auditivo y estimulación cognitiva para una mente clara y organizada.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
