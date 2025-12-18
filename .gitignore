@@ -1,0 +1,17 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporários
+*.tmp
+*.log
+
+# Mantém apenas os arquivos de áudio necessários
+# Adicione outros padrões conforme necessário
+
